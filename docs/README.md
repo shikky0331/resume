@@ -67,17 +67,30 @@
 
 #### 規模
 
-- 10 人。開発チーム: PM 1, デザイナー 1, エンジニア 3
+- 10 人。開発チーム： PM 1, デザイナー 1, エンジニア 3
 
 #### 役割
 
 - フロントエンド・バックエンドの設計から開発
 
----
-
 #### 使用した技術
 
-- TypeScript, React, Ruby, Ruby on Rails, Redux, RSpec, Storybook, Jest, React Testing Library, styled components, Heroku, S3, TSLint, Sidekiq, Redis
+- TypeScript
+- React
+- Redux
+- Storybook
+- Jest
+- React Testing Library
+- styled components
+- TSLint
+- Ruby
+- Ruby on Rails
+- RSpec
+- Ruby Grape
+- Heroku
+- S3
+- Sidekiq
+- Redis
 
 ### 行徳総合病院（2016/04〜2018/12）
 
