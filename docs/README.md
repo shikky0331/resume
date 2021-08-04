@@ -2,18 +2,18 @@
 
 ## 基本情報
 
-| key      | value                                         |
-| -------- | --------------------------------------------- |
-| 氏名     | 遠藤司樹（Endou Shiki）                       |
-| 生年月日 | 1994/03/31 27 歳                              |
-| 性別     | 男性                                          |
-| 住所     | 千葉県市川市                                  |
-| 婚姻有無 | 既婚                                          |
-| GitHub   | [shikky0331](https://github.com/shikky0331)   |
-| Twitter  | [@shikky0331](https://twitter.com/shikky0331) |
-| Wantedly | https://www.wantedly.com/id/shikky0331        |
-| Zenn     | https://zenn.dev/shikky0331                   |
-| note     | https://note.com/shikky0331/                  |
+| key      | value                                                |
+| -------- | ---------------------------------------------------- |
+| 氏名     | 遠藤司樹（Endou Shiki）                              |
+| 生年月日 | 1994/03/31 27 歳                                     |
+| 性別     | 男性                                                 |
+| 住所     | 千葉県市川市                                         |
+| 婚姻有無 | 既婚                                                 |
+| GitHub   | [shikky0331](https://github.com/shikky0331)          |
+| Twitter  | [@shikky0331](https://twitter.com/shikky0331)        |
+| Wantedly | [shikky0331](https://www.wantedly.com/id/shikky0331) |
+| Zenn     | [@shikky0331](https://zenn.dev/shikky0331)           |
+| note     | [shikky0331](https://note.com/shikky0331)            |
 
 ---
 
