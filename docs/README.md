@@ -37,6 +37,7 @@
 - Apollo
 - react-hook-form
 - npm work space
+- zod
 - Sentry
 - GitHub Actions
 - CircleCi
@@ -65,17 +66,10 @@
 
 ### 株式会社カカクコム（2021/11~現在）
 
-#### 職務内容
-
-- JQueryからReact へのリプレイス
-- 新規サービスの開発
-- Webpack の version up
-- 他チームへのTypeScript、Reactの教育
-
 #### 規模
 
 - 食べログ全体のエンジニアは 100 人〜
-- 所属チームはエンジニア 5
+- 所属チームはエンジニア 10
 
 #### 役割
 
@@ -99,27 +93,22 @@
 - CircleCi
 - zod
 
+#### やったこと
+
+- JQuery から React へのリプレイス
+- 新規機能の開発・改修
+- GraphQL、OpenAPI、JSON Schemaのスキーマ設計・修正
+- 複数ディレクトリの Webpack version up
+- 他チームへの TypeScript、Reactの教育
+- プロジェクトのタスク洗い出し、見積もり、スケジューリング
+- Next.js プロジェクトへの Sentry 導入
+- GitHub Actions で JavaScriptに変更があった際にPRにコード規約をコメントする
+- ビルド結果を S3 にデプロイするように CircleCi を設定
+- マニュアルテストの結合試験作成
+- オンボーディングの資料作成
+- 広告の実装
+
 ### Bizer 株式会社（2019/05〜2021/10）
-
-#### 職務内容
-
-- タスク管理ツール「Bizer team」の開発・運用
-- バックエンドのテーブル設計から API 作成、フロントエンドの SPA 開発までひととおりの開発
-- Unit, Integration, System テストの経験と、必要に応じて TDD 駆動で開発
-- バグ調査で SQL や Log を使用して原因調査
-- Redux と Presentational Component の密結合や論理的凝集になっている Component など、技術的負債をリファクタリング
-- Storybook を用いた凝集度と再利用性を意識した Component 開発
-- Sidekiq を利用した定期バッチの作成や非同期機能の実装
-- カラムの移行作業
-- Intercom, Salesforce との外部連携
-- Iframe を用いた Form の開発
-- コーディングガイドラインの作成
-- IE 対応
-- API のパフォーマンス調整
-- SPA の移行作業
-- インターン生との共同開発
-- GitHub flow、 コードレビュー、Docker を使用した環境での開発
-- エンジニア採用
 
 #### 規模
 
@@ -153,6 +142,26 @@
 - Buildkite
 - GitHub
 - PostgreSQL
+
+#### やったこと
+
+- タスク管理ツール「Bizer team」の開発・運用
+- バックエンドのテーブル設計から API 作成、フロントエンドの SPA 開発までひととおりの開発
+- Unit, Integration, System テストの経験と、必要に応じて TDD 駆動で開発
+- バグ調査で SQL や Log を使用して原因調査
+- Redux と Presentational Component の密結合や論理的凝集になっている Component など、技術的負債をリファクタリング
+- Storybook を用いた凝集度と再利用性を意識した Component 開発
+- Sidekiq を利用した定期バッチの作成や非同期機能の実装
+- カラムの移行作業
+- Intercom, Salesforce との外部連携
+- Iframe を用いた Form の開発
+- コーディングガイドラインの作成
+- IE 対応
+- API のパフォーマンス調整
+- SPA の移行作業
+- インターン生との共同開発
+- GitHub flow、 コードレビュー、Docker を使用した環境での開発
+- エンジニア採用
 
 <details>
 <summary><h3>業務の中で工夫したこと、成果・実績</h3></summary>
