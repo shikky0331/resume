@@ -10,6 +10,8 @@
 | 住所     | 千葉県市川市                                         |
 | 婚姻有無 | 既婚                                                 |
 | GitHub   | [shikky0331](https://github.com/shikky0331)          |
+| Hatena   | [shiki0331](https://shiki0331.hatenablog.com/)       |
+| DEV Community   | [shikky](https://dev.to/shikky)                       |
 | Twitter  | [@shikky0331](https://twitter.com/shikky0331)        |
 | Wantedly | [shikky0331](https://www.wantedly.com/id/shikky0331) |
 | Zenn     | [@shikky0331](https://zenn.dev/shikky0331)           |
